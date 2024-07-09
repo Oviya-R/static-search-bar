@@ -1,6 +1,18 @@
-.button{
-    width: 40px;
+input{
+    float: left;
+    height: 40px;
+    margin-left:10px ;
+
+    
 }
-.navbar {
-    width: 300px;
+img{
+    height: 35px;
+    width: 35px;
+    float: left;
+}
+.searchbutton{
+    background-color: rgb(216, 205, 205);
+    margin: 10px;
+   width: 400px;
+    
 }
